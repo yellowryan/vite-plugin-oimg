@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/yellowryan/vite-plugin-oimg.git"
   },
-  "bugs": "https://github.com/yellow/vite-plugin-oimg/issues",
+  "bugs": "https://github.com/yellowryan/vite-plugin-oimg/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
